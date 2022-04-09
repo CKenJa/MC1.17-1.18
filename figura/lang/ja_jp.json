@@ -106,112 +106,112 @@
   "figura.config.log_location.4": "なし",
 
   "figura.config.preview_nameplate": "ネームタグのプレビュー",
-  "figura.config.preview_nameplate.tooltip": "モデルプレビュー画面にネームタグを表示する",
+  "figura.config.preview_nameplate.tooltip": "モデルプレビュー画面にネームタグを表示するか",
 
   "figura.config.nameplate_modifications": "プレイヤーネームタグのカスタム",
-  "figura.config.nameplate_modifications.tooltip": "プレイヤーが名前をカスタムすることを許可する",
+  "figura.config.nameplate_modifications.tooltip": "プレイヤーが名前をカスタムすることを許可するか",
 
   "figura.config.chat_modifications": "チャットのカスタム",
-  "figura.config.chat_modifications.tooltip": "プレイヤーがチャット内での名前をカスタムすることを許可する",
+  "figura.config.chat_modifications.tooltip": "プレイヤーがチャット内での名前をカスタムすることを許可するか",
 
   "figura.config.playerlist_modifications": "プレイヤーリストのカスタム",
-  "figura.config.playerlist_modifications.tooltip": "プレイヤーがタブリスト内での名前をカスタムすることを許可する",
+  "figura.config.playerlist_modifications.tooltip": "プレイヤーがタブリスト内での名前をカスタムすることを許可するか",
 
-  "figura.config.badges": "Show Badges",
-  "figura.config.badges.tooltip": "Show badges next to names for people with Avatars",
+  "figura.config.badges": "バッジを表示",
+  "figura.config.badges.tooltip": "アバターを持っている人の名前の横にバッジを表示するか",
 
-  "figura.config.badge_as_icons": "NameTag Mark as Icon",
-  "figura.config.badge_as_icons.tooltip": "Display The Mark △ as an icon %d on the NameTag",
+  "figura.config.badge_as_icons": "ネームタグマークをアイコンにする",
+  "figura.config.badge_as_icons.tooltip": "△マークをネームタグにアイコンとして%dで表示するか",
 
-  "figura.config.figura_button_location": "Figura Button Location",
-  "figura.config.figura_button_location.tooltip": "Location where the Figura settings button should be",
-  "figura.config.figura_button_location.1": "Top Left",
-  "figura.config.figura_button_location.2": "Top Right",
-  "figura.config.figura_button_location.3": "Bottom Left",
-  "figura.config.figura_button_location.4": "Bottom Right",
-  "figura.config.figura_button_location.5": "Icon",
+  "figura.config.figura_button_location": "Figuraボタンの位置",
+  "figura.config.figura_button_location.tooltip": "Figuraの設定ボタンを配置する位置",
+  "figura.config.figura_button_location.1": "左上",
+  "figura.config.figura_button_location.2": "右上",
+  "figura.config.figura_button_location.3": "左下",
+  "figura.config.figura_button_location.4": "右下",
+  "figura.config.figura_button_location.5": "アイコン",
 
-  "figura.config.script_log_location": "Script Log",
-  "figura.config.script_log_location.tooltip": "Script debug log output location",
+  "figura.config.script_log_location": "スクリプトログ",
+  "figura.config.script_log_location.tooltip": "スクリプトデバッグログを出力する場所",
 
-  "figura.config.player_popup_button": "Player Popup key",
-  "figura.config.player_popup_button.tooltip": "Player Popup Keybind",
+  "figura.config.player_popup_button": "プレイヤーポップアップキー",
+  "figura.config.player_popup_button.tooltip": "プレイヤーポップアップのキー設定",
 
-  "figura.config.accent_color": "UI Accent Color",
-  "figura.config.accent_color.tooltip": "Changes the accent color used by the UI",
+  "figura.config.accent_color": "UIアクセントカラー",
+  "figura.config.accent_color.tooltip": "UIで使用するアクセントカラーを変更する",
 
-  "figura.config.release_channel": "Version Update Channel",
-  "figura.config.release_channel.tooltip": "Changed the update channel to fetch new versions",
-  "figura.config.release_channel.1": "Pre-Release",
-  "figura.config.release_channel.2": "Full-Release",
-  "figura.config.release_channel.3": "No Updates",
+  "figura.config.release_channel": "バージョンアップデートチャンネル",
+  "figura.config.release_channel.tooltip": "新しいバージョンを読み込むアップデートチャンネルを変更する",
+  "figura.config.release_channel.1": "プレリリース",
+  "figura.config.release_channel.2": "正式リリース",
+  "figura.config.release_channel.3": "アップデートしない",
 
-  "figura.config.custom_player_heads": "Custom Player Heads",
-  "figura.config.custom_player_heads.tooltip": "Toggles avatar rendering on player heads and in tablist",
+  "figura.config.custom_player_heads": "カスタムプレイヤーヘッド",
+  "figura.config.custom_player_heads.tooltip": "タブリスト内のプレイヤーヘッドにアバター描画を使うか",
 
-  "figura.config.fix_hands": "Lock First Person Hands",
-  "figura.config.fix_hands.tooltip": "Toggle the transformations of first person hands",
+  "figura.config.fix_hands": "一人称視点での手の固定",
+  "figura.config.fix_hands.tooltip": "一人称視点の手を変形するか",
 
-  "figura.config.easter_eggs": "Enable Easter Eggs",
-  "figura.config.easter_eggs.tooltip": "Toggles fun and unexpected aspects of Figura",
+  "figura.config.easter_eggs": "イースターエッグを有効化",
+  "figura.config.easter_eggs.tooltip": "Figuraのたのしい思わぬ要素を切り替える",
 
-  "figura.config.action_wheel_button": "Action Wheel key",
-  "figura.config.action_wheel_button.tooltip": "Action Wheel Keybind",
+  "figura.config.action_wheel_button": "アクションホイールキー",
+  "figura.config.action_wheel_button.tooltip": "アクションホイールを出すキーの設定",
 
-  "figura.config.action_wheel_title_pos": "Action Wheel Title position",
-  "figura.config.action_wheel_title_pos.tooltip": "The position of the Title of the Action Wheel",
-  "figura.config.action_wheel_title_pos.1": "Mouse",
-  "figura.config.action_wheel_title_pos.2": "Top",
-  "figura.config.action_wheel_title_pos.3": "Bottom",
-  "figura.config.action_wheel_title_pos.4": "Center",
+  "figura.config.action_wheel_title_pos": "アクションホイールタイトルの位置",
+  "figura.config.action_wheel_title_pos.tooltip": "アクションホイールのタイトルの位置",
+  "figura.config.action_wheel_title_pos.1": "マウス",
+  "figura.config.action_wheel_title_pos.2": "上",
+  "figura.config.action_wheel_title_pos.3": "下",
+  "figura.config.action_wheel_title_pos.4": "中央",
 
-  "figura.config.action_wheel_execute_on_close": "Execute on Close",
-  "figura.config.action_wheel_execute_on_close.tooltip": "Executes the selected action when closing the Action Wheel, otherwise actions only run on mouse click",
+  "figura.config.action_wheel_execute_on_close": "閉じたときに実行",
+  "figura.config.action_wheel_execute_on_close.tooltip": "選択したアクションをアクションホイールを閉じたときに実行するか、マウスでクリックした時のみ実行するか",
 
-  "figura.config.new_action_wheel": "Use New Action Wheel",
-  "figura.config.new_action_wheel.tooltip": "Changes the Action Wheel to a newer implementation of it",
+  "figura.config.new_action_wheel": "新しいアクションホイールを使う",
+  "figura.config.new_action_wheel.tooltip": "より新しい実装のアクションホイールを使うか",
 
-  "figura.config.use_local_server": "Use Local Server",
-  "figura.config.use_local_server.tooltip": "Toggles between using a local server or the main online server for online models",
+  "figura.config.use_local_server": "ローカルサーバーを使うか",
+  "figura.config.use_local_server.tooltip": "オンラインアバターにローカルサーバーを使うかメインのオンラインサーバーを使うか切り替える",
 
-  "figura.config.format_script_on_upload": "Format Script",
-  "figura.config.format_script_on_upload.tooltip": "Format script when uploading your avatar",
+  "figura.config.format_script_on_upload": "スクリプトの方式",
+  "figura.config.format_script_on_upload.tooltip": "アップロードしたあなたのアバターのスクリプトのフォーマット",
 
-  "figura.config.log_others_script": "Log Other Player's Scripts",
-  "figura.config.log_others_script.tooltip": "Display script debug logs from others players",
+  "figura.config.log_others_script": "他のプレイヤーなアバターのログ",
+  "figura.config.log_others_script.tooltip": "他のプレイヤーのアバターのスクリプトデバッグログを表示するか",
 
-  "figura.config.render_debug_parts_pivot": "Render Parts Pivot",
-  "figura.config.render_debug_parts_pivot.tooltip": "Render the Pivots from %d and %d when the hitbox debug rendering is enabled",
-  "figura.config.render_debug_parts_pivot.tooltip.cubes": "cubes",
-  "figura.config.render_debug_parts_pivot.tooltip.groups": "groups",
+  "figura.config.render_debug_parts_pivot": "パーツの回転軸を描画",
+  "figura.config.render_debug_parts_pivot.tooltip": "ヒットボックスの描画がオンの時に%dと%dの回転軸を描画する",
+  "figura.config.render_debug_parts_pivot.tooltip.cubes": "直方体",
+  "figura.config.render_debug_parts_pivot.tooltip.groups": "グループ",
 
-  "figura.config.render_own_nameplate": "Render Own NameTag",
-  "figura.config.render_own_nameplate.tooltip": "Renders your own NameTag ingame",
+  "figura.config.render_own_nameplate": "自分のネームタグを描画",
+  "figura.config.render_own_nameplate.tooltip": "ゲーム内で自分のネームタグを描画する",
 
-  "figura.config.model_folder_path": "Figura Directory",
-  "figura.config.model_folder_path.tooltip": "The path where all figura files (trust/avatars/cache) should go. Leave blank to use your Minecraft directory",
+  "figura.config.model_folder_path": "Figuraフォルダ",
+  "figura.config.model_folder_path.tooltip": "すべてのFiguraファイルを置く場所。Minecraftフォルダを使う場合は空白にしてください",
 
-  "figura.config.panic_button": "Toggle Avatar Rendering",
-  "figura.config.panic_button.tooltip": "This keybind toggles the avatar rendering of everyone! Beware!",
+  "figura.config.panic_button": "アバター描画の切り替え",
+  "figura.config.panic_button.tooltip": "このキー設定は全員のアバターの描画をオンオフする！ 注意！",
 
-  "figura.config.pings_log_location": "Pings Logging",
-  "figura.config.pings_log_location.tooltip": "Change the logging of received pings",
+  "figura.config.pings_log_location": "pingを記憶",
+  "figura.config.pings_log_location.tooltip": "受け取ったpingを記憶するか",
 
 
-  "figura.toast.upload.success.title": "Avatar Uploaded!",
-  "figura.toast.upload.error.title": "Avatar Upload Failed!",
+  "figura.toast.upload.success.title": "アバターアップロード完了！",
+  "figura.toast.upload.error.title": "アバターアップロード失敗！",
 
-  "figura.toast.upload.error.many": "You have too many avatars!!",
-  "figura.toast.upload.error.empty": "The avatar is empty!!",
-  "figura.toast.upload.error.space": "Not enough space on server!!",
+  "figura.toast.upload.error.many": "あなたはアバターを持ちすぎています！！",
+  "figura.toast.upload.error.empty": "そのアバターは空です！！",
+  "figura.toast.upload.error.space": "サーバーのスペースが足りません！！",
 
-  "figura.toast.avatar.reload.title": "Avatar Reloaded!",
-  "figura.toast.avatar.trust.title": "is now: ",
+  "figura.toast.avatar.reload.title": "アバターリロード完了！",
+  "figura.toast.avatar.trust.title": "現在の権限: ",
 
 
   "figura.actionwheel.warning": "スクリプトが見つかりません",
-  "figura.actionwheel.warninginfo": "The Action Wheel contents are set by your avatar script",
-  "figura.actionwheel.nofunction": "unbound function!",
+  "figura.actionwheel.warninginfo": "アクションホイールの内容は、アバタースクリプトで設定します",
+  "figura.actionwheel.nofunction": "未定義の関数！",
 
 
   "figura.playerpopup.cancel": "キャンセル",
@@ -220,8 +220,8 @@
   "figura.playerpopup.decreasetrust": "権限を下げる",
   "figura.playerpopup.trustmenu": "権限メニューを開く",
 
-  "figura.playerpopup.trustissue": "アバターの全機能にはより上位の権限が必要です!",
-  "figura.playerpopup.scriptissue": "アバターのスクリプトにエラーがあります!",
+  "figura.playerpopup.trustissue": "アバターの全機能にはより上位の権限が必要です！",
+  "figura.playerpopup.scriptissue": "アバターのスクリプトにエラーがあります！",
 
 
   "figura.models.unselect": "-未選択-",
